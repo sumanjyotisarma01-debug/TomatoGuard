@@ -1,0 +1,6 @@
+{
+  "name": "TomatoGuard AI - Plant Disease Detector & Care",
+  "description": "AI-powered tomato plant disease detection with instant leaf diagnosis, severity assessment, organic and chemical treatment plans, and prevention guidance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
